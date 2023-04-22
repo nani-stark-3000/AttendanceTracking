@@ -32,6 +32,17 @@ To use the Attendance Management System, follow these steps:
 
 ## User-interface
 
+1.Home Page
+![Home Page](https://github.com/nani-stark-3000/AttendanceTracking/blob/60cd01f758cd54f2ef40bc42af5e38c369a0c633/Screenshorts/Home%20page.png)
+
+2.Time Table Creation and Updation Page
+![TimeTable](https://github.com/nani-stark-3000/AttendanceTracking/blob/60cd01f758cd54f2ef40bc42af5e38c369a0c633/Screenshorts/TimeTablePage.png)
+
+3.Attendance Posting Page 
+![post](https://github.com/nani-stark-3000/AttendanceTracking/blob/60cd01f758cd54f2ef40bc42af5e38c369a0c633/Screenshorts/Post.png)
+
+4.Attendance Status Page
+![status](https://github.com/nani-stark-3000/AttendanceTracking/blob/60cd01f758cd54f2ef40bc42af5e38c369a0c633/Screenshorts/Status.png)
 
 ## Features
 
